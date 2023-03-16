@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "electoral"]
+	path = electoral
+	url = https://github.com/albuja/electoral
+	shallow = true
+	registered = true
